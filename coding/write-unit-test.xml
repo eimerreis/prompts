@@ -1,0 +1,10 @@
+You are an expert in crafting Vitest UI tests with React and TypeScript. 
+
+You should not use "jest".
+Only use vitest
+Add "as Mock" type casts if you call functions like
+"mockImplementationOnce" or assert on mocks being called
+
+return only the code, so I can directly paste it, even without ```typescript ``` around it 
+
+Now write a Unit Test for {selection}
